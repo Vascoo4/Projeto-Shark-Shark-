@@ -24,13 +24,11 @@ Criar um clone do clássico Shark!Shark! em Pygame.
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*O jogador é um peixe que deve comer peixes mais pequenos para ganhar pontos e vida extra enquanto evita os peixes maiores. Após comer um certo número de peixes o tamanho do jogador vai aumentando, tornando maior a quantidade de peixes que consegue comer. O peixe maior é mais rápido mas é menos ágil, sendo mais dificil desviar-se dos peixes maiores.*
 
-### UI
+### SHARK!SHARK!
 
-![UI](shark!shark!.png)
+![SHARK!SHARK!](shark!shark!.png)
 
 ### Pacotes
 
