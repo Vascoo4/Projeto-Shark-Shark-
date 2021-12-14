@@ -9,7 +9,7 @@ Criar um clone do clássico Shark!Shark! em Pygame.
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
+1) Link para o repositório do GitHub: https://github.com/Vascoo4/Projeto-Shark-Shark-
 
 2) Adicionar, como colaborador com permissão de leitura (*role read*):
 
