@@ -1,6 +1,6 @@
 # Projeto SHARK!SHARK!
 ## FPRO/LEIC, 2021/22
-## Vasco Moutinho de OLiveira (up202108881)
+## Vasco Moutinho de Oliveira (up202108881)
 ## 1LEIC14
 ### Objetivo
 
@@ -28,7 +28,7 @@ Criar um clone do clássico Shark!Shark! em Pygame.
 
 ### SHARK!SHARK!
 
-![SHARK!SHARK!](shark!shark!.png)
+![shark!shark!](shark!shark!.png)
 
 ### Pacotes
 
